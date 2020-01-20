@@ -62,7 +62,7 @@ app.delete('/api/TodoItems/:number', (req, res) => {
   res.status(200).send(delItem);
 });
 
-app.get('*', function( req, res){
+app.get('*', ( req, res) => {
   res.status(404).send('404 Error: Page not found');
 });
 
