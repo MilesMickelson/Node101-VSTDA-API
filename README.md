@@ -1,16 +1,13 @@
 # Node101-VSTDA-API
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 My fourth project in the Node101 course at San Diego Code School. This project teaches you how to 
-create an initial set of data points as an array of objects for use on the front end from the back. 
+create an initial set of data points as an array of objects in the server for use on the front end. 
 First, creating a route to view all of the objects and then create unique ones for each indiviudal 
 object to be viewed by its unique identifier. Second, adding a new unique item to that array of objects 
-on the server. And finally third, delete one of the items out of that array by a unique id.
+on the server, and third, deleting one of the items out of that array by using a unique id.
 
-Please feel free to demo the project by taking these steps.. 
+#### Please feel free to review the code in this repository as there is no front end feature to visualize.
 
-1. Clone or fork the repo 
-2. $ npm install 
-3. $ npm start (which will build and run on local server 3000)
-4. Open up your browser to view on localhost 3000
-
-Thank you, Miles Mickelson
+* **Thank you**, ***-Miles Mickelson***
